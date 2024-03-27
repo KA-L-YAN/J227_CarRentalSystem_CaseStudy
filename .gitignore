@@ -1,5 +1,6 @@
 # Compiled class file
 *.class
+CarRentalSystem/.settings/
 
 # Log file
 *.log
@@ -9,7 +10,6 @@
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
-CarRentalSystem/.settings/
 
 # Package Files #
 *.jar
