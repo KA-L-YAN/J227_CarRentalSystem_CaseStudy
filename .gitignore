@@ -10,7 +10,6 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
-CarRentalSystem/.settings/
 
 >>>>>>> 480f32b8197982343d0c8fd1b280a514956b55a4
 # Package Files #
@@ -21,6 +20,7 @@ CarRentalSystem/.settings/
 *.zip
 *.tar.gz
 *.rar
+CarRentalSystem/.settings/
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
